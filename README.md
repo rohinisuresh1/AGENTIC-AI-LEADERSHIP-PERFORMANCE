@@ -17,4 +17,4 @@ This repository serves as a practical reference for data analysts, business lead
 
 
 
-<img width="1005" height="533" alt="image" src="https://github.com/user-attachments/assets/08f4ba9b-8acd-483f-a786-cc109a23cd2e" />
+<img width="1404" height="792" alt="image" src="https://github.com/user-attachments/assets/08f4ba9b-8acd-483f-a786-cc109a23cd2e" />
